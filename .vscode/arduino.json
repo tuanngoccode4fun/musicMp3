@@ -1,0 +1,7 @@
+{
+    "port": "COM16",
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "output": ".\\MP3_Output",
+    "sketch": "musicMp3.ino"
+}

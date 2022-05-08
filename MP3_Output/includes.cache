@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\00_MyData\\02_Youtube\\07_MusicMp3\\00_Source\\musicMp3\\MP3_Output\\sketch\\musicMp3.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "C:\\Users\\Admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SoftwareSerial\\src"
+  },
+  {
+    "Sourcefile": "c:\\00_MyData\\02_Youtube\\07_MusicMp3\\00_Source\\musicMp3\\MP3_Output\\sketch\\musicMp3.ino.cpp",
+    "Include": "JQ6500_Serial.h",
+    "Includepath": "C:\\Users\\Admin\\Documents\\Arduino\\libraries\\JQ6500_Serial\\src"
+  },
+  {
+    "Sourcefile": "c:\\00_MyData\\02_Youtube\\07_MusicMp3\\00_Source\\musicMp3\\MP3_Output\\sketch\\musicMp3.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Admin\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\SoftwareSerial\\src\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Admin\\Documents\\Arduino\\libraries\\JQ6500_Serial\\src\\JQ6500_Serial.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
